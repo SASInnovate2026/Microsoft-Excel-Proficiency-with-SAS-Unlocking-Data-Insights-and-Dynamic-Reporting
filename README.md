@@ -1,13 +1,16 @@
 # Microsoft-Excel-Proficiency-with-SAS-Unlocking-Data-Insights-and-Dynamic-Reporting
-Files Overview
+## Files Overview
 
--Demo Instructions and Presentation Slides
+Demo Instructions and Presentation Slides
 
-	Microsoft Excel Proficiency with SAS.pdf
+* Microsoft Excel Proficiency with SAS.pdf
 
--Files Used in the Demo(s)
+Files Used in the Demo(s)
 
-	Data and Programs.zip
+* Data and Programs.zip
+
+## Presenter Contact Information
+Kristin.Snyder@sas.com
 
 ## Important Information
 
